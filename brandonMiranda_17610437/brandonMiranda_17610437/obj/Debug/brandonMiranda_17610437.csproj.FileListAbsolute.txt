@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\HANDINS\brandonMiranda_17610437\brandonMiranda_17610437\obj\Debug\brandonMiranda_17610437.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HANDINS\brandonMiranda_17610437\brandonMiranda_17610437\obj\Debug\brandonMiranda_17610437.Form1.resources
+C:\Users\User\Desktop\HANDINS\brandonMiranda_17610437\brandonMiranda_17610437\obj\Debug\brandonMiranda_17610437.Properties.Resources.resources
+C:\Users\User\Desktop\HANDINS\brandonMiranda_17610437\brandonMiranda_17610437\obj\Debug\brandonMiranda_17610437.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HANDINS\brandonMiranda_17610437\brandonMiranda_17610437\obj\Debug\brandonMiranda_17610437.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HANDINS\brandonMiranda_17610437\brandonMiranda_17610437\bin\Debug\brandonMiranda_17610437.exe.config
+C:\Users\User\Desktop\HANDINS\brandonMiranda_17610437\brandonMiranda_17610437\bin\Debug\brandonMiranda_17610437.exe
+C:\Users\User\Desktop\HANDINS\brandonMiranda_17610437\brandonMiranda_17610437\bin\Debug\brandonMiranda_17610437.pdb
+C:\Users\User\Desktop\HANDINS\brandonMiranda_17610437\brandonMiranda_17610437\obj\Debug\brandonMiranda_17610437.exe
+C:\Users\User\Desktop\HANDINS\brandonMiranda_17610437\brandonMiranda_17610437\obj\Debug\brandonMiranda_17610437.pdb
