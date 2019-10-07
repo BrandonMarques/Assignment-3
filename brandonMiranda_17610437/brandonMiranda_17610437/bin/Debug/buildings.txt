@@ -1,0 +1,10 @@
+Resource, 0, 5, 100, 100, 2),3, 129, 60,A-Team, ^, False
+Factory, 5, 7, 100, 100, 0),6, 8B-Team, ~, False
+Factory, 8, 2, 100, 100, 0),6, 3B-Team, ~, False
+Resource, 9, 7, 100, 100, 0),2, 86, 65,B-Team, ^, False
+Factory, 8, 3, 100, 100, 0),4, 4N-Team, ~, False
+Resource, 3, 7, 100, 100, 2),1, 43, 102,A-Team, ^, False
+Factory, 9, 0, 100, 100, 0),4, 1A-Team, ~, False
+Factory, 7, 9, 100, 100, 0),3, 8A-Team, ~, False
+Resource, 2, 2, 100, 100, 1),1, 43, 141,N-Team, ^, False
+Resource, 5, 5, 100, 100, 3),3, 129, 48,A-Team, ^, False
